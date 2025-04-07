@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>A Save Editor for the hit roguelike poker game Balatro</b><br><br>
-  <img src="https://github.com/user-attachments/assets/82984856-91b9-40e0-ad33-bfbe1b85387e" height="100" width="100" alt="Chrono-Joker Logo" />
+  <img src="https://github.com/user-attachments/assets/82984856-91b9-40e0-ad33-bfbe1b85387e" height="200" width="100" alt="Chrono-Joker Logo" />
 </p>
 
 # What is it?
