@@ -3,7 +3,7 @@
   ____  _ ___  __  __  _  __    __   __  _  _____ ___  
  / _/ || | _ \/__\|  \| |/__\  |_ \ /__\| |/ / __| _ \ 
 | \_| >< | v / \/ | | ' | \/ |  _\ | \/ |   <| _|| v / 
- \__/_||_|_|_\\__/|_|\__|\__/  /___|\__/|_|\_\___|_|_\ 
+ \__/_||_|_|_}\__/|_|\__|\__/  /___|\__/|_|\_\___|_|_\ 
 -------------------------------------------------------------
                       Written by Tenor-Z
                        April 5, 2025
@@ -258,11 +258,6 @@ Use at your own risk - modifying save files may impact your game experience."""
         copyright_label.pack(side="bottom", pady=10)
 
 
-"""
-On the main window, the main header containing the custom Joker logo
-and the name is displayed.
-"""
-
     def create_header(self):
         header_frame = ttk.Frame(self.main_container, style="TFrame")
         header_frame.pack(fill="x", pady=(0, 10))
@@ -290,11 +285,6 @@ and the name is displayed.
         self.slogan_label = ttk.Label(header_frame, text="", style="Slogan.TLabel")
         self.slogan_label.pack(side="right", padx=10)
     
-
-'''
-The editor tab is created here, containing the import, export,
-and editing options. 
-'''
 
     def create_editor_tab(self):
         button_frame = ttk.Frame(self.editor_tab, style="TFrame")
@@ -387,10 +377,6 @@ and editing options.
         self.preview_text.pack(fill="both", expand=True, padx=5, pady=5)
         self.preview_text.config(state="disabled")
     
-    """
-    Creating the raw data tab
-    """
-
     def create_raw_data_tab(self):
         # Text frame
         text_frame = ttk.Frame(self.raw_data_tab, style="TFrame")
@@ -418,10 +404,6 @@ and editing options.
         # Configure scrollbars
         v_scroll.config(command=self.text_area.yview)
         h_scroll.config(command=self.text_area.xview)
-    
-    """
-    The status bar on the bottom of the screen
-    """
 
     def create_status_bar(self):
         status_frame = ttk.Frame(self.main_container, style="TFrame")
@@ -602,12 +584,6 @@ and editing options.
     def edit_ante(self):
         self.quick_edit_variable("ante", "Ante")        # Quick edit ante function
     
-
-"""
-This was written because I am too lazy to make a function
-for each different variable that can be edited, so why not
-put it all into one?
-"""
 
     def quick_edit_variable(self, variable, display_name):
         if not self.imported_data:
