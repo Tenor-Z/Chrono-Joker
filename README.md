@@ -1,5 +1,5 @@
 # Chrono-Joker
-A Save Editor for the roguelike poker game Balatro
+A Save Editor for the roguelike poker game Balatro<br>
 <img src="https://github.com/user-attachments/assets/82984856-91b9-40e0-ad33-bfbe1b85387e" width="300" alt="Chrono-Joker Logo" />
 
 # What is it?
