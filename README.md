@@ -11,5 +11,5 @@ Chrono-Joker is a save editor for *Balatro* that lets you modify your saved game
 
 # How to Install?
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7b359c0a-b1b0-4144-a491-b7b3598d7048" height="250" width="600" alt="Chrono-Joker Logo" />
+  <img src="https://github.com/user-attachments/assets/7b359c0a-b1b0-4144-a491-b7b3598d7048" height="350" width="600" alt="Chrono-Joker Logo" />
 </p>
