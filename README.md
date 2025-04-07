@@ -1,7 +1,10 @@
 # Chrono-Joker
-<center>A Save Editor for the hit roguelike poker game Balatro<br>
-<img src="https://github.com/user-attachments/assets/82984856-91b9-40e0-ad33-bfbe1b85387e" width="300" alt="Chrono-Joker Logo" /></center>
 
-# What is it?
-Chrono Joker is a save editor program for Balatro that allows users to modify the data of their saved in-game runs. Whether its for modifying the ante, the amount of money, or the key elements needed to breeze through a game, this application has got you covered. With an interface that is both user-friendly to the inexperienced and accessible to those that know what they are doing, Chrono Joker can be used to modify both
-saved games, and user stats, giving the user free control over the elements of the game.
+<p align="center">
+  <b>A Save Editor for the hit roguelike poker game Balatro</b><br><br>
+  <img src="https://github.com/user-attachments/assets/82984856-91b9-40e0-ad33-bfbe1b85387e" width="300" alt="Chrono-Joker Logo" />
+</p>
+
+## What is it?
+
+Chrono-Joker is a save editor for *Balatro* that lets you modify your saved games and user stats. You can tweak values like your ante, money, jokers, and more — giving you full control over your run. Whether you're experimenting, recovering a save, or just having fun, Chrono-Joker’s interface is simple for beginners and powerful for advanced users alike.
